@@ -293,13 +293,13 @@ export default function LandingPage() {
             "Design personnalisé",
             "Responsive mobile",
             "Optimisation SEO locale",
-            "hébergement",
+            "hébergement à partir de 20€ par mois",
           ],
         },
         {
           id: "commerce",
           tag: "Pour vendre plus",
-          price: "1490€",
+          price: "320€",
           period: "forfait",
           description: "Une boutique en ligne performante pour vos produits.",
           button: {
