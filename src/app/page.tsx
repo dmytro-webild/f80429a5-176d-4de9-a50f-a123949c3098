@@ -65,7 +65,7 @@ export default function LandingPage() {
       background={{
         variant: "plain",
       }}
-      title="Obtenez un site web professionnel paris accessible qui attire des clients "
+      title="Obtenez un site web vitrine à prix accessible qui attire des clients "
       description="Nous créons des sites modernes, rapides et optimisés pour les entreprises qui veulent se développer en ligne."
       tag="Agence Digitale Artisan du Web"
       buttons={[
