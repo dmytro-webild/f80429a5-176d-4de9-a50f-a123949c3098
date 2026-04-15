@@ -164,12 +164,12 @@ export default function LandingPage() {
       metrics={[
         {
           id: "m1",
-          value: "+40%",
+          value: "Simple. ",
           description: "Attirez plus de clients qualifiés",
         },
         {
           id: "m2",
-          value: "100%",
+          value: "Pro.",
           description: "Améliorez votre image professionnelle",
         },
         {
