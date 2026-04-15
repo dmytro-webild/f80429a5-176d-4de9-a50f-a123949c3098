@@ -346,7 +346,7 @@ export default function LandingPage() {
         {
           id: "faq1",
           title: "Combien de temps faut-il pour créer un site ?",
-          content: "En moyenne, un site vitrine est livré sous 2 à 4 semaines après réception de vos éléments.",
+          content: "En moyenne, un site vitrine est livré sous 4 à 5 jours après réception de vos éléments.",
         },
         {
           id: "faq2",
