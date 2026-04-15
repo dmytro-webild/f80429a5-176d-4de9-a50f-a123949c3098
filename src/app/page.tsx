@@ -65,7 +65,7 @@ export default function LandingPage() {
       background={{
         variant: "plain",
       }}
-      title="Obtenez un site web professionnel qui attire des clients"
+      title="Obtenez un site web professionnel paris accessible qui attire des clients "
       description="Nous créons des sites modernes, rapides et optimisés pour les entreprises qui veulent se développer en ligne."
       tag="Agence Digitale Artisan du Web"
       buttons={[
@@ -281,7 +281,7 @@ export default function LandingPage() {
         {
           id: "vitrine",
           tag: "Idéal pour débuter",
-          price: "890€",
+          price: "200€",
           period: "forfait",
           description: "Tout le nécessaire pour être visible en ligne.",
           button: {
@@ -293,7 +293,7 @@ export default function LandingPage() {
             "Design personnalisé",
             "Responsive mobile",
             "Optimisation SEO locale",
-            "1 an d'hébergement",
+            "hébergement",
           ],
         },
         {
@@ -334,7 +334,7 @@ export default function LandingPage() {
         },
       ]}
       title="Des offres simples et transparentes"
-      description="Un site web clé en main à partir de 890€ TTC."
+      description="Un site web clé en main à partir de 200€ TTC."
     />
   </div>
 
