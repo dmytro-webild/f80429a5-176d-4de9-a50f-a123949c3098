@@ -291,7 +291,7 @@ export default function LandingPage() {
           featuresTitle: "Inclus dans l'offre",
           features: [
             "Design personnalisé",
-            "Responsive mobile",
+            "1 à 6 pages",
             "Optimisation SEO locale",
             "hébergement à partir de 20€ par mois",
           ],
