@@ -268,7 +268,7 @@ export default function LandingPage() {
         "RestoGastronomique",
       ]}
       title="Ils nous font confiance"
-      description="Plus de 50 entreprises locales accompagnées vers la réussite numérique."
+      description="Plus de 20 entreprises locales accompagnées vers la réussite numérique."
     />
   </div>
 
