@@ -171,7 +171,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       plans={[
         {
-          id: "vitrine",          tag: "Idéal pour débuter",          price: "200€",          period: "forfait",          description: "Tout le nécessaire pour être visible en ligne.",          button: {
+          id: "vitrine",          tag: "Idéal pour débuter",          price: "199€",          period: "forfait",          description: "Tout le nécessaire pour être visible en ligne.",          button: {
             text: "Demander un devis",            href: "#contact"},
           featuresTitle: "Inclus dans l'offre",          features: [
             "Design personnalisé",            "1 à 6 pages",            "Optimisation SEO locale",            "hébergement à partir de 20€ par mois"],
