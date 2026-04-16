@@ -22,9 +22,9 @@ export default function LandingPage() {
         contentWidth="mediumSmall"
         sizing="largeSmallSizeLargeTitles"
         background="noise"
-        cardStyle="glass-elevated"
+        cardStyle="outline"
         primaryButtonStyle="flat"
-        secondaryButtonStyle="glass"
+        secondaryButtonStyle="radial-glow"
         headingFontWeight="light"
     >
       <ReactLenis root>
@@ -79,7 +79,7 @@ export default function LandingPage() {
       <FeatureCardTwelve
       animationType="slide-up"
       textboxLayout="split"
-      useInvertedBackground={true}
+      useInvertedBackground={false}
       features={[
         {
           id: "vitrine",          label: "Vitrine",          title: "Site Vitrine",          items: [
@@ -105,7 +105,7 @@ export default function LandingPage() {
 
   <div id="benefits" data-section="benefits">
       <MetricCardFourteen
-      useInvertedBackground={true}
+      useInvertedBackground={false}
       title="Pourquoi passer au numérique ?"
       tag="Avantages clés"
       metrics={[
@@ -127,7 +127,7 @@ export default function LandingPage() {
       animationType="slide-up"
       textboxLayout="split"
       gridVariant="three-columns-all-equal-width"
-      useInvertedBackground={true}
+      useInvertedBackground={false}
       products={[
         {
           id: "p1",          brand: "Boutique",          name: "Boutique de vêtements",          price: "Vitrine",          rating: 5,
@@ -156,7 +156,7 @@ export default function LandingPage() {
   <div id="social-proof" data-section="social-proof">
       <SocialProofOne
       textboxLayout="default"
-      useInvertedBackground={true}
+      useInvertedBackground={false}
       names={[
         "Artisan du Bois",        "Boutique Mode",        "Brasserie du Coin",        "AutoClean",        "TechPro",        "ImmoLocal",        "RestoGastronomique"]}
       title="Ils nous font confiance"
@@ -168,7 +168,7 @@ export default function LandingPage() {
       <PricingCardFive
       animationType="slide-up"
       textboxLayout="split"
-      useInvertedBackground={true}
+      useInvertedBackground={false}
       plans={[
         {
           id: "vitrine",          tag: "Idéal pour débuter",          price: "200€",          period: "forfait",          description: "Tout le nécessaire pour être visible en ligne.",          button: {
@@ -191,7 +191,7 @@ export default function LandingPage() {
   <div id="faq" data-section="faq">
       <FaqSplitMedia
       textboxLayout="split"
-      useInvertedBackground={true}
+      useInvertedBackground={false}
       faqs={[
         {
           id: "faq1",          title: "Combien de temps faut-il pour créer un site ?",          content: "En moyenne, un site vitrine est livré sous 4 à 5 jours après réception de vos éléments."},
@@ -212,7 +212,7 @@ export default function LandingPage() {
 
   <div id="contact" data-section="contact">
       <ContactSplit
-      useInvertedBackground={true}
+      useInvertedBackground={false}
       background={{
         variant: "plain"}}
       tag="Consultation"
@@ -227,7 +227,6 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterBase
-      className="bg-transparent backdrop-blur-md border-t border-white/10"
       columns={[
         {
           title: "Navigation",          items: [
