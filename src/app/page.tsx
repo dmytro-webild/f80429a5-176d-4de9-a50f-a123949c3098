@@ -174,7 +174,7 @@ export default function LandingPage() {
           id: "vitrine",          tag: "Idéal pour débuter",          price: "199€",          period: "forfait",          description: "Tout le nécessaire pour être visible en ligne.",          button: {
             text: "Demander un devis",            href: "#contact"},
           featuresTitle: "Inclus dans l'offre",          features: [
-            "Design personnalisé",            "1 à 6 pages",            "Optimisation SEO locale",            "hébergement à partir de 20€ par mois"],
+            "Design personnalisé",            "1 à 6 pages",            "Optimisation SEO locale",            "hébergement à partir de 40€ par mois"],
         },
         {
           id: "sur-mesure",          tag: "Solution sur mesure",          price: "Devis",          period: "à définir",          description: "Projets complexes et fonctionnalités avancées.",          button: {
